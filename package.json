@@ -1,0 +1,20 @@
+{
+  "name": "imagemin",
+  "version": "1.0.0",
+  "description": "Image optimization with Gulp, gulp-imagemin, gifsicle, guetzli, optipng and svgo",
+  "author": "Fabio Lobo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiorlobo/Gulp-imagemin.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-plumber": "^1.1.0",
+    "imagemin-gifsicle": "^5.1.0",
+    "imagemin-guetzli": "^0.1.5",
+    "imagemin-optipng": "^5.2.1",
+    "imagemin-svgo": "^5.2.1"
+  }
+}
